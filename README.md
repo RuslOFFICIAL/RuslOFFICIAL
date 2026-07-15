@@ -1,5 +1,5 @@
-RuslOFFICIAL
-Making simple-basic projects for fun :3
+# RuslOFFICIAL
+### Making simple-basic projects for fun :3
 
 Repositories:
 - [Daily-Use-Utilities](https://github.com/RuslOFFICIAL/Daily-Use-Utilities) ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)
