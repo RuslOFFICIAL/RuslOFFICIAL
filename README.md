@@ -6,3 +6,21 @@
 - [Git-Scripts](https://github.com/RuslOFFICIAL/Git-Scripts) (Linux) ![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)
 - [Numbers](https://github.com/RuslOFFICIAL/Numbers) (Windows, Linux, Android) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)
 - [Windows-Update-Power-Menu-Configurator](https://github.com/RuslOFFICIAL/Windows-Update-Power-Menu-Configurator) (Windows) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)
+
+
+
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme-dark" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark" />
+</picture>
