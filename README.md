@@ -1,9 +1,9 @@
-# Rusl - RuslOFFICIAL
+# Rusl - Rusl_OFFICIAL
 ## Making simple-basic projects for fun :3
 
 ### Links:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RuslOFFICIAL)
-- [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/RuslOFFICIAL)
+- [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/Rusl_OFFICIAL)
 
 ### GitHub Repositories:
 - [Daily-Use-Utilities (DUU)](https://github.com/RuslOFFICIAL/Daily-Use-Utilities) (Windows, Linux) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/RuslOFFICIAL/Daily-Use-Utilities) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/RuslOFFICIAL/Daily-Use-Utilities)
