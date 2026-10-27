@@ -26,8 +26,8 @@
 
 <picture>
 	<source
-		srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark"
+		srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark&layout=compact&langs_count=5"
 		media="(prefers-color-scheme: dark)"
 	/>
-	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark" />
+	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark&layout=compact&langs_count=5" />
 </picture>
