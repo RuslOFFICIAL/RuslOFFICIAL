@@ -8,24 +8,26 @@
 ### GitHub Repositories:
 - [Daily-Use-Utilities (DUU)](https://github.com/RuslOFFICIAL/Daily-Use-Utilities) (Windows, Linux) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FDaily-Use-Utilities++language%3ABatchfile&type=code) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FDaily-Use-Utilities++language%3AShell&type=code)
 - [Git-Scripts](https://github.com/RuslOFFICIAL/Git-Scripts) (Linux) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FGit-Scripts++language%3AShell&type=code)
-- [KMS-Manager](https://github.com/RuslOFFICIAL/KMS-Manager) (Windows) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FKMS-Manager++language%3ABatchfile&type=code) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FKMS-Manager++language%3AShell&type=code)
+- [KMS-Manager](https://github.com/RuslOFFICIAL/KMS-Manager) (Windows with Linux) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FKMS-Manager++language%3ABatchfile&type=code) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FKMS-Manager++language%3AShell&type=code)
+- [mcpack](https://github.com/RuslOFFICIAL/mcpack) (Windows) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2Fmcpack++language%3ABatchfile&type=code)
+- [Narrator](https://github.com/RuslOFFICIAL/Narrator) (Linux) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FNarrator++language%3AJavaScript&type=code) [![Shell](https://img.shields.io/badge/Shell-4D4D4D?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FNarrator++language%3AShell&type=code)
 - [Numbers](https://github.com/RuslOFFICIAL/Numbers) (Windows, Linux, Android) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FNumbers++language%3AC%23&type=code) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FNumbers++language%3ABatchfile&type=code)
 - [Windows-Update-Power-Menu-Configurator (WUPMC)](https://github.com/RuslOFFICIAL/Windows-Update-Power-Menu-Configurator) (Windows) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FWindows-Update-Power-Menu-Configurator++language%3APowerShell&type=code) [![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windows&logoColor=white)](https://github.com/search?q=repo%3ARuslOFFICIAL%2FWindows-Update-Power-Menu-Configurator++language%3ABatchfile&type=code)
 
 
 
 <picture>
-  <source
-      srcset="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme-dark" />
+	<source
+		srcset="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme=dark"
+		media="(prefers-color-scheme: dark)"
+	/>
+	<img src="https://github-stats-extended.vercel.app/api?username=RuslOFFICIAL&show_icons=true&theme-dark" />
 </picture>
 
 <picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark" />
+	<source
+		srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark"
+		media="(prefers-color-scheme: dark)"
+	/>
+	<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuslOFFICIAL&theme=dark" />
 </picture>
