@@ -1,4 +1,4 @@
-# Rusl - Rusl_OFFICIAL
+# Rusl - RuslOFFICIAL / Rusl_OFFICIAL
 ## Making simple-basic projects for fun :3
 
 ### Links:
